@@ -1,0 +1,40 @@
+{//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/test_serial_comp.v} {1 {vlog -work work -vopt {//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/test_serial_comp.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test_serial_comp
+
+Top level modules:
+	test_serial_comp
+
+} {} {}} {V:/New folder/test_comp_1bit.v} {1 {vlog -work work -vopt {V:/New folder/test_comp_1bit.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test_comp_1bit
+
+Top level modules:
+	test_comp_1bit
+
+} {} {}} {V:/New folder/test_comp_6bit.v} {2 {vlog -work work -vopt {V:/New folder/test_comp_6bit.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test_comp_6bit
+** Warning: V:/New folder/test_comp_6bit.v(13): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: V:/New folder/test_comp_6bit.v(14): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	test_comp_6bit
+
+} {} {}} {//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/comp_1bit.v} {1 {vlog -work work -vopt {//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/comp_1bit.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module comp_1bit
+
+Top level modules:
+	comp_1bit
+
+} {} {}} {//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/comp_6bit.v} {1 {vlog -work work -vopt {//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/comp_6bit.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module comp_6bit
+
+Top level modules:
+	comp_6bit
+
+} {} {}}

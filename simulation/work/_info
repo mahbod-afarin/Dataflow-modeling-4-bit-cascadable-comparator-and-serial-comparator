@@ -1,0 +1,113 @@
+m255
+K3
+13
+cModel Technology
+Z0 d\\psf\Home\Documents\My Documents\University\Term7\DSD\HW1\1
+vcomp_1bit
+Z1 !s100 4>I?V3mXL=z16MfA[_g1[0
+Z2 I4a9f@md:W;TnO0:SLUiEI1
+Z3 VY[`Q]Z[CL2N6C5DG:o2EF2
+Z4 d\\psf\Home\Documents\My Documents\University\Term7\DSDLab\3
+Z5 w1445778657
+Z6 8//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/comp_1bit.v
+Z7 F//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/comp_1bit.v
+L0 1
+Z8 OL;L;10.1c;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|-vopt|//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/comp_1bit.v|
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z11 !s108 1445784308.542000
+Z12 !s107 //psf/Home/Documents/My Documents/University/Term7/DSDLab/3/comp_1bit.v|
+!i10b 1
+!s85 0
+vcomp_6bit
+Z13 !s100 G4MX`6jfV0`Vk@>8Q0`_L0
+Z14 IR3Tb`HckZ_PkaG0GhVXkG2
+Z15 VzA5;5LJL_DHYBN8EcPNVk0
+R4
+Z16 w1445779392
+Z17 8//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/comp_6bit.v
+Z18 F//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/comp_6bit.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|-vopt|//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/comp_6bit.v|
+R10
+Z20 !s108 1445784308.737000
+Z21 !s107 //psf/Home/Documents/My Documents/University/Term7/DSDLab/3/comp_6bit.v|
+!i10b 1
+!s85 0
+vserial_comp
+Z22 !s100 MC8@]H3Com4LUlXcU_PW12
+Z23 IJ0KfK:<j3QO0fkh0CIQO:3
+Z24 V<BOIXL:QI6b^JoKZ^X`_H3
+R4
+Z25 w1445784196
+Z26 8//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/serial_comp.v
+Z27 F//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/serial_comp.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|-vopt|//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/serial_comp.v|
+R10
+!i10b 1
+!s85 0
+Z29 !s108 1445784309.122000
+Z30 !s107 //psf/Home/Documents/My Documents/University/Term7/DSDLab/3/serial_comp.v|
+vtest_comp_1bit
+Z31 !s100 zl?6SgPT[jz5dLZ[0ehU?1
+Z32 InG_5M2jXk5TNjK[_k[d;@0
+Z33 V:d[k5=2HKQSJ=b:SG9;CY3
+R4
+Z34 w1445780910
+Z35 8V:/New folder/test_comp_1bit.v
+Z36 FV:/New folder/test_comp_1bit.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|-vopt|V:/New folder/test_comp_1bit.v|
+R10
+Z38 !s108 1445784308.841000
+Z39 !s107 V:/New folder/test_comp_1bit.v|
+!i10b 1
+!s85 0
+vtest_comp_6bit
+Z40 !s100 a1C6dT]oc>F6FMEXVLCCG2
+Z41 IKQF]_[RU>zmhjiKNiO6DT2
+Z42 VE<528aDU7ahHJnX7<1`<U0
+R4
+Z43 w1445781066
+Z44 8V:/New folder/test_comp_6bit.v
+Z45 FV:/New folder/test_comp_6bit.v
+L0 1
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|-vopt|V:/New folder/test_comp_6bit.v|
+R10
+Z47 !s108 1445784308.991000
+Z48 !s107 V:/New folder/test_comp_6bit.v|
+!i10b 1
+!s85 0
+vtest_serial_comp
+!i10b 1
+!s100 zz>W7E6@SBIz1IE?mI30_2
+I2H6jEaQ0JV^GFKHSZ;mRC2
+Z49 VVeMCIfoDHZ@G<gBbDC>Lj2
+R4
+w1445784311
+Z50 8//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/test_serial_comp.v
+Z51 F//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/test_serial_comp.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1445784310.901000
+!s107 //psf/Home/Documents/My Documents/University/Term7/DSDLab/3/test_serial_comp.v|
+Z52 !s90 -reportprogress|300|-work|work|-vopt|//psf/Home/Documents/My Documents/University/Term7/DSDLab/3/test_serial_comp.v|
+R10
